@@ -1,0 +1,9 @@
+CREATE TABLE `tyres` (
+  `brand` varchar(255) NOT NULL,
+  `pattern` varchar(255) NOT NULL,
+  `size` varchar(255) NOT NULL,
+  `price` varchar(255) NOT NULL,
+  `season` varchar(255) NOT NULL,
+  `wet_grip` varchar(255) NOT NULL,
+  `fuel_efficiency` varchar(255) NOT NULL
+) 
