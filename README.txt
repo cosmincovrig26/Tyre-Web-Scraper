@@ -16,4 +16,4 @@ Things to add for scalibility/improvement:
 
 
 The project was made in one day with no previous knowledge of web scraping, but from my willingness to learn
-and build projects :)
+and build new things :)
