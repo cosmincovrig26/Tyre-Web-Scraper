@@ -1,7 +1,7 @@
 !! Data has already been scraped for demonstration purposes, as shown by UserInputForData.jpeg !!
 
 To make program run:
-- Create database 'tyredatabase' with table 'tyres' and the architecture shown in the picture DatabasePhoto.jpg
+- Create database 'tyredatabase' with table 'tyres' (use SQL script) and the architecture shown in the picture DatabasePhoto.jpg
 - run main.py
 
 --------------------------------
